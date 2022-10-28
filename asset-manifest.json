@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nevatrip_1/static/css/main.3e91e159.css",
+    "main.js": "/nevatrip_1/static/js/main.01e38941.js",
+    "static/media/ekskursii-po-spb-na-avtobuse-1.jpg": "/nevatrip_1/static/media/ekskursii-po-spb-na-avtobuse-1.e114f039c33b784985a0.jpg",
+    "static/media/AdobeStock_168443825 1.jpg": "/nevatrip_1/static/media/AdobeStock_168443825 1.c0122a6bb375136da0b9.jpg",
+    "static/media/music-1.jpg": "/nevatrip_1/static/media/music-1.e73462a73b9096b398d5.jpg",
+    "static/media/sankt-peterburg-piter-st-3495-2.jpg": "/nevatrip_1/static/media/sankt-peterburg-piter-st-3495-2.416ad8e94364813d9737.jpg",
+    "static/media/sankt-peterburg-piter-st-3495.jpg": "/nevatrip_1/static/media/sankt-peterburg-piter-st-3495.4a1067b5c212b6c8128e.jpg",
+    "static/media/clock.svg": "/nevatrip_1/static/media/clock.427e99f495837c74ee69052f971e3411.svg",
+    "index.html": "/nevatrip_1/index.html",
+    "static/media/check_mark.svg": "/nevatrip_1/static/media/check_mark.29b8ed3cffe65eb9f131.svg",
+    "main.3e91e159.css.map": "/nevatrip_1/static/css/main.3e91e159.css.map",
+    "main.01e38941.js.map": "/nevatrip_1/static/js/main.01e38941.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e91e159.css",
+    "static/js/main.01e38941.js"
+  ]
+}
